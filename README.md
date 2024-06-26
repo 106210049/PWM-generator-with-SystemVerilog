@@ -103,7 +103,7 @@ assign pulse_out =  tmp1 & tmp4 &slow_clk_enable;
 // assign duty_dec =  tmp3 & (~ tmp4) & slow_clk_enable;
 endmodule: debounce_DFF
 ```
-<img src="Image/debounce_wave (2).png" width="800" >  
+<img src="Image/debounce_wave (2).png" width="1000" >  
 
 ## Increase/Decrease Duty cycle block:
 
@@ -180,4 +180,4 @@ endmodule: PWM_Generator
 
 ```
 
-<img src="Image/EPWAVE.png" width="800" >  
+<img src="Image/EPWAVE.png" width="1000" >  
