@@ -181,3 +181,5 @@ endmodule: PWM_Generator
 ```
 
 <img src="Image/EPWAVE.png" width="1000" >  
+
+My code in EDA Playground: [PWM Generator](https://edaplayground.com/x/ePhy)
